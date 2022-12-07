@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+}
+.container{
+text-align: center;}
+#main{
+    background-color: darkcyan;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

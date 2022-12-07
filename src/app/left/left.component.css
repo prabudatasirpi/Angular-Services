@@ -1,0 +1,12 @@
+#main{
+    background-color: khaki;
+    height: 500px;
+    color: khaki;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#header{
+    background-color: darkcyan;
+}
+#body{
+    color: #222;
+}
